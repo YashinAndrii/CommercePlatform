@@ -17,10 +17,6 @@ public class Basket {
 
     }
 
-    public long getUserId() {
-        return userId;
-    }
-
     public List<Product> getProducts() {
         return products;
     }
